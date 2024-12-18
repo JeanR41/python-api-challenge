@@ -1,7 +1,3 @@
-Here's the updated README file, better aligned with the assignment prompt:
-
----
-
 # WeatherPy & VacationPy - API Challenge
 
 This repository contains two Jupyter notebooks that showcase the use of APIs to analyze weather data and plan vacations based on weather conditions, as part of the Python API Challenge. The challenge addresses the fundamental question: *"What is the weather like as we approach the equator?"* The goal is to analyze weather data across cities at varying latitudes to identify patterns and relationships between weather variables and proximity to the equator.
